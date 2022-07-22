@@ -20,10 +20,6 @@ workshop. E.g.
 2. Familiarize with the schedule posted below.
 
 ## Schedule
-TODO(instructor): Make sure the dates and times are accurate below for your
-course. E.g. replace `?`'s with the hour (or time-of-day) 
-that your course starts. Adjust time schedules within each session.
-
 #### Monday August 15th
 - Session 1 (1:00 - 4:00 P.M. PST)
   - Topic 1 with example time-allocation.
