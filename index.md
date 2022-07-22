@@ -13,11 +13,8 @@ Johan Ugander is an Associate Professor at Stanford University in the Department
 # Workshop Materials
 
 ## Pre-workshop Checklist
-TODO(instructor): enumerate what students need to take care of before the
-workshop. E.g.
-
-1. Download the following tools: ...
-2. Familiarize with the schedule posted below.
+1. You should have received a welcome email with the Zoom link and password. Please email us (ugander@stanford.edu) if you haven’t.
+2. Familiarize yourself with the schedule and see you Monday August 15th at 1:00 pm PT!
 
 ## Schedule
 #### Monday August 15th
