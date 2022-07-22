@@ -17,7 +17,7 @@ Johan Ugander is an Associate Professor at Stanford University in the Department
 2. Familiarize yourself with the schedule and see you Monday August 15th at 1:00 pm PT!
 
 ## Schedule
-#### Monday August 15th
+#### Monday August 15th [[slides](/docs/day1-digital-exhaust-and-ml.pdf)]
 - Part 1 (1:00-2:00 PM)
   - Introduction, digital exhaust
 - Part 2 (2:00-3:00 PM)
@@ -25,7 +25,7 @@ Johan Ugander is an Associate Professor at Stanford University in the Department
 - Part 3 (3:00-4:00 PM)
   - Machine learning with relational data
   
-#### Tuesday August 16th
+#### Tuesday August 16th [[slides](/docs/day2-dp-transparency-regulation.pdf)]
 - Part 4 (1:00-2:00 PM)
   - Differential privacy
 - Part 5 (2:00-3:00 PM)
