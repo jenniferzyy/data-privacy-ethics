@@ -24,12 +24,14 @@ TODO(instructor): Make sure the dates and times are accurate below for your
 course. E.g. replace `?`'s with the hour (or time-of-day) 
 that your course starts. Adjust time schedules within each session.
 
-#### Session 1 (1:00 - 4:00 P.M. PST)
+#### Monday August 15th
+- Session 1 (1:00 - 4:00 P.M. PST)
   - Topic 1 with example time-allocation.
   - Topic 2 with example time-allocation, etc.
   - 15 minute Q&A
   
-#### Session 2 (1:00 - 4:00 P.M. PST)
+#### Tuesday August 16th
+- Session 2 (1:00 - 4:00 P.M. PST)
   - Something similar as above.
 
 ## Additional Resources
