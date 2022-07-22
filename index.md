@@ -20,12 +20,12 @@ workshop. E.g.
 2. Familiarize with the schedule posted below.
 
 ## Schedule
-#### Session 1 (August 15th 1:00 - 4:00 P.M. PST)
+#### Session 1 (August 15th 1:00 - 4:00 P.M. PDT)
   - Topic 1 with example time-allocation.
   - Topic 2 with example time-allocation, etc.
   - 15 minute Q&A
   
-#### Session 2 (August 16th 1:00 - 4:00 P.M. PST)
+#### Session 2 (August 16th 1:00 - 4:00 P.M. PDT)
   - Something similar as above.
 
 ## Additional Resources
