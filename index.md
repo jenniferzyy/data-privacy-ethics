@@ -6,20 +6,9 @@ layout: default
 This workshop engages with difficult challenges in the modern practice of data science and the design of data products. We will begin by discussing the promises and perils of mining digital exhaust: location, transaction, social media, and other data types that are increasingly recorded and accessible within digital platforms. The uses of such data will be discussed along a privacy--utility trade-off, providing a framework for thinking though objectives such as data minimization. The discussion of digital exhaust will carry forward into an introduction to differential privacy and the problems it can and can not address. A second theme of the workshop will be discussing the relative merits of observational vs. experimental (A/B testing) data-driven decision making with regard to the design and improvement of data products. Specific examples will include recommendations systems and search engine design, but discussion will also touch on the decision-making surrounding the deployment of learning algorithms in online platforms.
 
 ## About the Instructor
+![Johan Ugander](/assets/img/profile.jpg){:style="max-width:30%;"}
 
-TODO(instructor): create a profile photo in two steps.
-
-  * Replace "instructor-name" in the image below with your name (note: this link
-is only visible in the raw-text file; on the web-page itself you'll simply see a
-sticky note with "To Do" written on it).
-  * Move the image you would like to appear on your website into the 
-    following folder contained in your website's working directory
-    ```
-    /assets/img/profile.jpg
-    ```
-![instructor-name](/assets/img/profile.jpg){:style="max-width:30%;"}
-
-TODO(instructor): insert a description about yourself here!
+Johan Ugander is an Associate Professor at Stanford University in the Department of Management Science & Engineering, within the School of Engineering. His research develops algorithmic and statistical frameworks for analyzing social systems, social networks, and other large-scale social data. Prior to joining the Stanford faculty he was a postdoctoral researcher at Microsoft Research Redmond 2014-2015 and held an affiliation with the Facebook Data Science team 2010-2014. He obtained his Ph.D. in Applied Mathematics from Cornell University in 2014. His awards include a Young Investigator Award from the Army Research Office (ARO), three Best Paper Awards (2012 ACM WebSci Best Paper, 2013 ACM WSDM Best Student Paper, 2020 AAAI ICWSM Best Paper), and the 2016 Eugene L. Grant Undergraduate Teaching Award from the Department of Management Science & Engineering.
 
 # Workshop Materials
 
