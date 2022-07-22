@@ -33,12 +33,6 @@ Johan Ugander is an Associate Professor at Stanford University in the Department
 - Part 6 (3:00-4:00 PM)
   - GDPR and privacy regulation
 
-# ## Additional Resources
-# 
-# Here are some additional resources for various topics:
-# 
-# TODO(instructor): fill in with pertinent resources.
-
 
 
 
