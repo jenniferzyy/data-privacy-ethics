@@ -20,13 +20,21 @@ workshop. E.g.
 2. Familiarize with the schedule posted below.
 
 ## Schedule
-#### Session 1 (August 15th 1:00 - 4:00 P.M. PDT)
-  - Topic 1 with example time-allocation.
-  - Topic 2 with example time-allocation, etc.
-  - 15 minute Q&A
+#### Monday August 15th
+- Part 1 (1:00-2:00 PM)
+  - Introduction, digital exhaust
+- Part 2 (2:00-3:00 PM)
+  - Discussion: recommender system design
+- Part 3 (3:00-4:00 PM)
+  - Machine learning with relational data
   
-#### Session 2 (August 16th 1:00 - 4:00 P.M. PDT)
-  - Something similar as above.
+#### Tuesday August 16th
+- Part 4 (1:00-2:00 PM)
+  - Differential privacy
+- Part 5 (2:00-3:00 PM)
+  - Discussion: transparency & public records
+- Part 6 (3:00-4:00 PM)
+  - GDPR and privacy regulation
 
 ## Additional Resources
 
