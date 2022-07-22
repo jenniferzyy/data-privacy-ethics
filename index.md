@@ -3,20 +3,7 @@ layout: default
 ---
 
 # Workshop Description
-TODO(instructor): fill in this section with a description of your workshop.
-
-This course covers the following aspects
-  * Topic 1, and
-  * Topic 2, ...
-  
-It may be helpful to know that you can *italicize* text with single-asterisks
-(or alternatively, using _underscores_),
-and that you can **bold** text using double-asterisks.
-
-If you want to insert a link, use `[` in order to delimit the text that you wish
-to appear in the web-UI, and after closing the text with `]`insert the URL in a
-set of `()`, e.g. [here is a link to ICME's
-website](https://icme.stanford.edu/).
+This workshop engages with difficult challenges in the modern practice of data science and the design of data products. We will begin by discussing the promises and perils of mining digital exhaust: location, transaction, social media, and other data types that are increasingly recorded and accessible within digital platforms. The uses of such data will be discussed along a privacy--utility trade-off, providing a framework for thinking though objectives such as data minimization. The discussion of digital exhaust will carry forward into an introduction to differential privacy and the problems it can and can not address. A second theme of the workshop will be discussing the relative merits of observational vs. experimental (A/B testing) data-driven decision making with regard to the design and improvement of data products. Specific examples will include recommendations systems and search engine design, but discussion will also touch on the decision-making surrounding the deployment of learning algorithms in online platforms.
 
 ## About the Instructor
 
@@ -48,12 +35,12 @@ TODO(instructor): Make sure the dates and times are accurate below for your
 course. E.g. replace `?`'s with the hour (or time-of-day) 
 that your course starts. Adjust time schedules within each session.
 
-#### Session 1 (?:00 - ?: ?.M. PST)
+#### Session 1 (1:00 - 4:00 P.M. PST)
   - Topic 1 with example time-allocation.
   - Topic 2 with example time-allocation, etc.
   - 15 minute Q&A
   
-#### Session 2 (?:00 - ?:00 ?.M. PST)
+#### Session 2 (1:00 - 4:00 P.M. PST)
   - Something similar as above.
 
 ## Additional Resources
