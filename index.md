@@ -13,7 +13,7 @@ Johan Ugander is an Associate Professor at Stanford University in the Department
 # Workshop Materials
 
 ## Pre-workshop Checklist
-1. You should have received a welcome email with the Zoom link and password. Please email us (ugander@stanford.edu) if you haven’t.
+1. You should have received a welcome email with the Zoom link and password. Please email us (jugander@stanford.edu) if you haven’t.
 2. Familiarize yourself with the schedule and see you Monday August 15th at 1:00 pm PT!
 
 ## Schedule
