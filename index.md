@@ -17,7 +17,7 @@ Johan Ugander is an Associate Professor at Stanford University in the Department
 2. Familiarize yourself with the schedule and see you Monday August 15th at 1:00 pm PT!
 
 ## Schedule
-#### Monday August 15th [[slides](/docs/day1-digital-exhaust-and-ml.pdf)]
+#### Monday August 15th [[slides](/docs/day1-digital-exhaust-and-ml.pdf)] [[jupyter notebook](https://nbviewer.org/urls/dl.dropbox.com/s/8f06s0oetf5utxd/ICME%20Data%20Privacy%20%26%20Ethics%20Course.ipynb)]
 - Part 1 (1:00-2:00 PM)
   - Introduction, digital exhaust
 - Part 2 (2:00-3:00 PM)
