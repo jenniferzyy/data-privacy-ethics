@@ -26,7 +26,7 @@ Johan Ugander is an Associate Professor at Stanford University in the Department
   - Machine learning with relational data
   - [Jupyter notebook](https://nbviewer.org/urls/dl.dropbox.com/s/8f06s0oetf5utxd/ICME%20Data%20Privacy%20%26%20Ethics%20Course.ipynb)
   
-#### Tuesday August 16th [[slides](/docs/day2-dp-transparency-regulation.pdf)]
+#### Tuesday August 16th [[slides](/docs/day2-dp-transparency-regulation.pdf)] [[zoom recording](https://stanford.zoom.us/rec/share/Zq3mqcYu1on_zbCgv8uOjdB6ajBcM76GjH1svFK25JgC4vXuLG3NeU7HTiWverBN.aBh9JBlYnp4uCd-B?startTime=1660679030000)]
 - Part 4 (1:00-2:00 PM)
   - Differential privacy
 - Part 5 (2:00-3:00 PM)
